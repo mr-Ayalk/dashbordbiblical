@@ -7,11 +7,6 @@ Currently, two official plugins are available:
    
 <img width="1280" height="598" alt="image" src="https://github.com/user-attachments/assets/61e08177-eebe-4f7a-ab52-dc9027b85f05" />
 
-
-
-
-
-
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
